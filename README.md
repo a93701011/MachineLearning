@@ -1,1 +1,1 @@
-My machiine learning as reference
+machine learning ipython notebook as reference
